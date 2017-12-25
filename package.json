@@ -1,0 +1,18 @@
+{
+  "name": "nodejs-static-page-server",
+  "version": "1.0.0",
+  "description": "Node JS - Static page proto",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "static"
+  ],
+  "author": "Mohammed Rafi Kaleem",
+  "license": "ISC",
+  "dependencies": {
+    "connect": "^3.6.5",
+    "serve-static": "^1.13.1"
+  }
+}
